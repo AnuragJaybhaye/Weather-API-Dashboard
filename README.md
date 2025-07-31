@@ -22,4 +22,4 @@ This project was an incredible learning experience. It pushed me beyond static f
 
 Here is the Dashboard: 
 
-![alt text]()
+![alt text](https://github.com/KBLovesme/Weather-API-Dashboard/blob/24219a28a3ab5a70ec28fa987c95faa68cc2d372/Dashboard.png)
