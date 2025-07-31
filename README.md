@@ -17,6 +17,6 @@ I chose a sleek dark mode theme to make the data points pop. I designed custom c
     
 **The Result: Data in Real-Time**
 The final result is a responsive, all-in-one weather station. As of this morning, a user could see that it was 24.2 °C and misty in Hyderabad, with a 100% chance of rain today. They could also see that the air quality was "Good" with an AQI of 37, and that sunset would be at 06:46 PM. ☀️
-This project was an incredible learning experience. It pushed me beyond static files and taught me the end-to-end process of working with live APIs—from the initial connection and JSON parsing to designing a polished and insightful dashboard. It proves that with the right tools, we can turn the constant flow of data from the world around us into something clear, useful, and beautiful. 💡
+This project was an incredible learning experience. It pushed me beyond static files and taught me the end-to-end process of working with live APIs from the initial connection and JSON parsing to designing a polished and insightful dashboard. It proves that with the right tools, we can turn the constant flow of data from the world around us into something clear, useful, and beautiful. 💡
 
 Here is the Dashboard: 
