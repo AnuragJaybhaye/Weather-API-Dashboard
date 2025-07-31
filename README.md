@@ -1,4 +1,5 @@
 **Weather-API-Dashboard**
+
 After working with static datasets, I wanted to take on a new challenge: building a dashboard that visualizes live, dynamic data. I decided to create a personal weather dashboard, seeing it as the perfect opportunity to learn how to connect to a real-time API and design a beautiful, functional interface from the ground up. 🌦️
 
 **Step 1: Tapping into Real-Time Data via API**
