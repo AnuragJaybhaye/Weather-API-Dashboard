@@ -21,3 +21,5 @@ The final result is a responsive, all-in-one weather station. As of this morning
 This project was an incredible learning experience. It pushed me beyond static files and taught me the end-to-end process of working with live APIs from the initial connection and JSON parsing to designing a polished and insightful dashboard. It proves that with the right tools, we can turn the constant flow of data from the world around us into something clear, useful, and beautiful. 💡
 
 Here is the Dashboard: 
+
+![alt text](https://github.com/KBLovesme/Weather-API-Dashboard/blob/8b9a9187d48096ef720ffef529b496a972c83205/Dashboard.png)
